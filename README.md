@@ -4,7 +4,7 @@ English - My name is Alberto, I'm 21 and I'm a Cross-platform App Developer spec
 
 Español - Mi Nombre es Alberto, tengo 21 años y soy Desarrollador de Aplicaciones Multiplataforma  especializado en IA y Big Data
 
-Contact/Contacto: [albertomoregonzalez03@gmail.com](mailto:albertomoregonzalez03@gmail.com)
+Contact/Contacto: [albertomoregonzalez03@gmail.com](mailto:albertomorenogonzalez03@gmail.com)
 
 
 ### LANGUAGUES AND INFO
