@@ -1,8 +1,8 @@
 This is my GitHub Page !
 
-English - My name is Alberto, I'm 21 and I'm a Cross-platform App Developer who is now specializing in AI and Big Data at CPIFP Alan Turing
+English - My name is Alberto, I'm 21 and I'm a Cross-platform App Developer specialized in AI and Big Data
 
-Español - Mi Nombre es Alberto, tengo 21 años y soy Desarrollador de Aplicaciones Multiplataforma que ahora mismo se está especializando en IA y Big Data en CPIFP Alan Turing
+Español - Mi Nombre es Alberto, tengo 21 años y soy Desarrollador de Aplicaciones Multiplataforma  especializado en IA y Big Data
 
 Contact/Contacto: [albertomoregonzalez03@gmail.com](mailto:albertomoregonzalez03@gmail.com)
 
